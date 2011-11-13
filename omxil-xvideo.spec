@@ -12,6 +12,7 @@ BuildRequires:	autoconf >= 2.59
 BuildRequires:	automake
 BuildRequires:	libomxil-bellagio-devel >= 0.9
 BuildRequires:	libtool
+BuildRequires:	pkgconfig
 BuildRequires:	xorg-lib-libX11-devel
 BuildRequires:	xorg-lib-libXv-devel
 Requires:	libomxil-bellagio >= 0.9
