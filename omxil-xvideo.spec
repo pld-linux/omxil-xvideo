@@ -26,7 +26,7 @@ that uses the Xlib for the visualization.
 
 %description -l pl.UTF-8
 Komponent X Video to komponent wyświetlający obraz dla implementacji
-Bellagio OpenMAX IL wykorzystujący do wizualizacji bibliotekę Xlib.
+Bellagio OpenMAX IL, wykorzystujący do wizualizacji bibliotekę Xlib.
 
 %prep
 %setup -q -n libomxxvideo-%{version}
